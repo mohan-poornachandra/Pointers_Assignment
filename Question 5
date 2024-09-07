@@ -1,0 +1,1 @@
+No, as the pointer is not initialized with any address of a variable it will show an error.
